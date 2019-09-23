@@ -1,0 +1,11 @@
+- Hướng dẫn ----
+Import database baohanh.sql
+- Cấu hình kết nối sql tại 2 file config ở bên ngoài thư mục gốc và ở trong thư mục admincp
+- đăng nhập admin: http://tên-miền/admincp
+* tên đăng nhập: admin - pass: 123456
+Note: trình độ chicken nên code còn lỗi nên gạch đá nhận hết hehe!
+
+* Đây là source quản lý đơn hàng cơ bản và cho phép khách hàng tìm kiếm thông tin bảo hành
+
+
+
